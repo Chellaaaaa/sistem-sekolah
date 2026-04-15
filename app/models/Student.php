@@ -5,7 +5,7 @@ require_once '../app/core/Database.php';
 use App\Core\Database;
 class Student extends Database
 {
-    protected $table ='student';
+    protected $table ='students';
 
     //Fungsi untuk menampilkan daftar siswa
 
